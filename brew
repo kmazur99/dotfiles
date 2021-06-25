@@ -19,9 +19,20 @@ wireshark
 xquartz
 zotero
 
+casks
+------
 
 rectangle
 sensiblesidebuttons
 wireshark
 vlc
 qbittorrent
+
+
+installs
+------
+node
+adoptopenjdk
+wget
+tmux
+vim
