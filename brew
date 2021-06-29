@@ -36,3 +36,4 @@ adoptopenjdk
 wget
 tmux
 vim
+bash
