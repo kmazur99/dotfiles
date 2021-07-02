@@ -37,3 +37,4 @@ wget
 tmux
 vim
 bash
+htop
