@@ -36,7 +36,8 @@ adoptopenjdk
 wget
 tmux
 vim
-bash
 htop
 ncdu
 neofetch
+brew tap homebrew/cask-fonts
+brew install --cask font-cascadia-code
