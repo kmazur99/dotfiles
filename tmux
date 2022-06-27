@@ -11,6 +11,8 @@ bind-key ` last-window
 set-option -g prefix C-a
 bind-key C-a send-prefix
 
+set -g mouse on
+
 set -g status-position bottom
 set -g status-bg colour234
 set -g status-fg colour137
