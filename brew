@@ -38,6 +38,8 @@ tmux
 vim
 htop
 ncdu
+bat
+fing-cli
 neofetch
 brew tap homebrew/cask-fonts
 brew install --cask font-cascadia-code
